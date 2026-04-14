@@ -1,16 +1,31 @@
 <div align="center">
 
-<!-- ══════════════════════ HEADER BANNER ══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Badri%20Vishal%20Pandey&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=⚡%20Building%20Intelligence%20at%20the%20Edge%20of%20Silicon%20⚡&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
+<!--  ██╗  ██╗███████╗ █████╗ ██████╗ ███████╗██████╗     ██████╗  █████╗ ███╗   ██╗███╗   ██╗███████╗██████╗  -->
+<!--  ██║  ██║██╔════╝██╔══██╗██╔══██╗██╔════╝██╔══██╗    ██╔══██╗██╔══██╗████╗  ██║████╗  ██║██╔════╝██╔══██╗ -->
+<!--  ███████║█████╗  ███████║██║  ██║█████╗  ██████╔╝    ██████╔╝███████║██╔██╗ ██║██╔██╗ ██║█████╗  ██████╔╝ -->
+<!--  ██╔══██║██╔══╝  ██╔══██║██║  ██║██╔══╝  ██╔══██╗    ██╔══██╗██╔══██║██║╚██╗██║██║╚██╗██║██╔══╝  ██╔══██╗ -->
+<!--  ██║  ██║███████╗██║  ██║██████╔╝███████╗██║  ██║    ██████╔╝██║  ██║██║ ╚████║██║ ╚████║███████╗██║  ██║ -->
 
-<!-- ══════════════════════ TYPING ANIMATION ══════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&height=60&lines=🤖+AI+%2F+ML+Engineer;🔬+Wafer+Defect+Detection+|+ResNet18+%2B+Grad-CAM;🪖+Smart+Helmet+|+IoT+%2B+Real-Time+Crash+Detection;⚡+ECE+|+Embedded+Systems+|+Robotics;🚀+Turning+hardware+%2B+intelligence+into+impact" alt="Typing SVG" />
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                        HEADER BANNER                             -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Badri%20Vishal%20Pandey&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=⚡%20Building%20Intelligence%20at%20the%20Edge%20of%20Silicon%20⚡&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
-<!-- ══════════════════════ BADGES ROW ══════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                      TYPING ANIMATION                            -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=🤖+AI+%2F+ML+Engineer;🔬+Wafer+Defect+Detection+%7C+ResNet18+%2B+Grad-CAM;🪖+Smart+Helmet+%7C+IoT+%2B+Real-Time+Crash+Detection;⚡+ECE+%7C+Embedded+Systems+%7C+Robotics+Enthusiast;🚀+Turning+Hardware+%2B+Intelligence+Into+Impact" alt="Typing Animation"/>
+
+<br/><br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                       SOCIAL BADGES                              -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 <a href="https://linkedin.com/in/badri-vishal-pandey-0a7913324">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 </a>
 &nbsp;
 <a href="https://github.com/badrisatyam1-ctrl">
@@ -23,38 +38,45 @@
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=badrisatyam1-ctrl&style=for-the-badge&color=7b2ff7&label=PROFILE+VIEWS"/>
 
+<br/><br/>
+
+<!-- SLIM DIVIDER using capsule-render — fully reliable -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ══════════════════════ ABOUT ME ══════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                         ABOUT ME                                 -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 👋 About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="55%">
+<td width="54%" valign="top">
 
 ### Hi, I'm **Badri Vishal Pandey** 🇮🇳
 
-I'm an **AI/ML Engineer** and **ECE Developer** passionate about building systems that are intelligent, embedded, and real-time. I work at the intersection of **deep learning, hardware, and robotics** — turning ideas into systems that actually *think* and *act*.
+I'm an **AI/ML Engineer** and **ECE Developer** who builds things that are **intelligent, embedded, and real-time**. I operate at the intersection of deep learning, hardware engineering, and robotics — turning complex ideas into systems that actually *think*, *sense*, and *act*.
 
-- 🎓 **B.Tech** — Electronics & Communication Engineering
-- 🔬 Building **AI vision systems** for industrial inspection
-- 🪖 Designing **life-saving IoT hardware** (Smart Helmet)
-- ⚡ Solving **DSA problems daily** in C++ on LeetCode
-- 🚀 Open to **Internships · Research · Open Source**
+<br/>
+
+🎓 &nbsp;**B.Tech** — Electronics & Communication Engineering  
+🔬 &nbsp;Building **AI vision systems** for industrial inspection  
+🪖 &nbsp;Designing **life-saving IoT hardware** (Smart Helmet)  
+⚡ &nbsp;Grinding **DSA daily** in C++ on LeetCode  
+🚀 &nbsp;Open to **Internships · Research · Open Source**  
+
+<br/>
 
 > *"Make it work. Make it smart. Make it real."*
 
 </td>
-<td width="45%" align="center">
+<td width="46%" align="center" valign="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="300" alt="Developer at work"/>
 
 </td>
 </tr>
@@ -62,31 +84,34 @@ I'm an **AI/ML Engineer** and **ECE Developer** passionate about building system
 
 <br/>
 
-<!-- ══════════════════════ WHAT I DO ══════════════════════ -->
-
+<!-- SKILLS SUMMARY TABLE -->
 <div align="center">
 
-| 🤖 AI / ML | 🔧 Embedded Systems | 🛸 Robotics & IoT |
+| 🤖 &nbsp;AI / ML | 🔧 &nbsp;Embedded Systems | 🛸 &nbsp;Robotics & IoT |
 |:---:|:---:|:---:|
-| Computer Vision | Arduino · ESP32 · RPi | Sensor Fusion |
+| Computer Vision | Arduino R4 · ESP32 · RPi | Sensor Fusion |
 | Deep Learning | MPU6050 · GPS · GSM | ROS / ROS2 |
-| Grad-CAM · ResNet | Real-Time Systems | SLAM |
-| Streamlit Apps | C / C++ Firmware | Edge AI |
+| ResNet · Grad-CAM | Real-Time Firmware | SLAM |
+| Streamlit Deployment | C / C++ Systems | Edge AI |
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+</div>
 
 <br/>
 
-<!-- ══════════════════════ TECH STACK ══════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                        TECH STACK                                -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🧠 Tech Stack
 
 <details open>
-<summary><b>⚡ AI / Machine Learning</b></summary>
+<summary><b>&nbsp;⚡ AI / Machine Learning</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -103,7 +128,7 @@ I'm an **AI/ML Engineer** and **ECE Developer** passionate about building system
 </details>
 
 <details open>
-<summary><b>🔧 ECE / Embedded Systems</b></summary>
+<summary><b>&nbsp;🔧 ECE / Embedded Systems</b></summary>
 <br/>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -112,13 +137,13 @@ I'm an **AI/ML Engineer** and **ECE Developer** passionate about building system
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![MPU6050](https://img.shields.io/badge/MPU6050%20IMU-7B2FF7?style=for-the-badge&logoColor=white)
-![GPS](https://img.shields.io/badge/GPS%20%2F%20GSM%20Modules-00D4FF?style=for-the-badge&logoColor=white)
+![GPS](https://img.shields.io/badge/GPS%20%2F%20GSM-00D4FF?style=for-the-badge&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🤖 Robotics</b></summary>
+<summary><b>&nbsp;🤖 Robotics</b></summary>
 <br/>
 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
@@ -142,95 +167,111 @@ I'm an **AI/ML Engineer** and **ECE Developer** passionate about building system
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+</div>
 
 <br/>
 
-<!-- ══════════════════════ FEATURED PROJECTS ══════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                     FEATURED PROJECTS                            -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🚀 Featured Projects
 
----
+<br/>
 
-### 🔬 `[01]` — Wafer Defect Detection & Classification
+<!-- PROJECT 01 -->
+<div align="center">
 
-<img align="right" src="https://img.shields.io/badge/Status-Active-00d4ff?style=flat-square"/> 
+### 🔬 &nbsp;`[ 01 ]` &nbsp;Wafer Defect Detection & Classification
 
-**ResNet18 · Grad-CAM · Streamlit · OpenAI GPT-4o-mini**
+![Status](https://img.shields.io/badge/Status-🟢%20Active-00d4ff?style=flat-square&labelColor=0d1117)
+![Type](https://img.shields.io/badge/Type-AI%20%2F%20Computer%20Vision-7b2ff7?style=flat-square&labelColor=0d1117)
+![Stack](https://img.shields.io/badge/Stack-PyTorch%20·%20Grad--CAM%20·%20Streamlit-FF4B4B?style=flat-square&labelColor=0d1117)
 
-A production-grade AI system for semiconductor wafer inspection. Trained **ResNet18** on wafer map images to classify defect patterns. Integrated **Grad-CAM** for visual explainability — highlighting *exactly where* defects occur. Deployed as a full-stack **Streamlit** web app with live camera feed, drag-and-drop upload, and a **GPT-4o-mini** chatbot for intelligent defect Q&A.
+</div>
+
+A **production-grade AI system** for semiconductor wafer inspection. Built with **ResNet18** (Transfer Learning) to classify wafer defect patterns from map images. Integrated **Grad-CAM** for heatmap-based explainability — showing *exactly where* on the wafer the model detects anomalies. Deployed as a full-stack **Streamlit** web app with real-time camera feed, drag-and-drop upload, and an embedded **GPT-4o-mini** chatbot for defect Q&A.
+
+<div align="center">
 
 | 🔩 Component | 📌 Detail |
-|---|---|
-| 🧠 Model | ResNet18 (Transfer Learning) |
-| 🔍 Explainability | Grad-CAM Heatmaps |
-| 🌐 Deployment | Streamlit Web App |
-| 🤖 Chatbot | OpenAI GPT-4o-mini |
-| 📷 Input Modes | Real-time Camera + Image Upload |
+|:---|:---|
+| 🧠 **Model** | ResNet18 — Transfer Learning on Wafer Maps |
+| 🔍 **Explainability** | Grad-CAM Heatmap Overlays |
+| 🌐 **Deployment** | Streamlit Web Application |
+| 🤖 **AI Chatbot** | OpenAI GPT-4o-mini Integration |
+| 📷 **Input** | Real-time Camera · Drag & Drop Upload |
+| 🎯 **Output** | Defect Class + Visual Confidence Map |
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/badrisatyam1-ctrl/wafer-defect-detection)
+</div>
+
+[![View Repo](https://img.shields.io/badge/⭐%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/badrisatyam1-ctrl/wafer-defect-detection)
+&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4o--mini-412991?style=flat-square&logo=openai&logoColor=white)
 
----
+<br/>
 
-### 🪖 `[02]` — Smart Helmet · Crash Detection + Emergency Alert System
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" width="80%"/>
+</div>
 
-<img align="right" src="https://img.shields.io/badge/Status-Active-00d4ff?style=flat-square"/>
+<br/>
 
-**Arduino R4 · MPU6050 · GPS NEO-6M · GSM SIM800L · Real-Time IoT**
+<!-- PROJECT 02 -->
+<div align="center">
 
-A life-saving embedded system built into a motorcycle helmet. The **MPU6050 IMU** monitors 6-axis acceleration and gyro data continuously. On crash detection (impact threshold breach), it autonomously:
+### 🪖 &nbsp;`[ 02 ]` &nbsp;Smart Helmet · Crash Detection + Emergency Alert
 
-- 📡 Fetches **real-time GPS coordinates** (lat/lng)
-- 📲 Dispatches an **SMS emergency alert via GSM** to registered contacts
-- 🚨 Activates onboard **buzzer + LED** for local warning
-- ⚡ **Sub-second response latency** — zero human intervention needed
+![Status](https://img.shields.io/badge/Status-🟢%20Active-00d4ff?style=flat-square&labelColor=0d1117)
+![Type](https://img.shields.io/badge/Type-IoT%20%2F%20Embedded%20Systems-7b2ff7?style=flat-square&labelColor=0d1117)
+![Stack](https://img.shields.io/badge/Stack-Arduino%20R4%20·%20MPU6050%20·%20GPS%20·%20GSM-00979D?style=flat-square&labelColor=0d1117)
+
+</div>
+
+A **life-saving embedded system** built into a motorcycle helmet. The **MPU6050 IMU** continuously monitors 6-axis acceleration and gyroscope data. The moment a crash is detected (sudden impact threshold breach), the system autonomously fires a full emergency response chain — **no human intervention required.**
+
+**Emergency Response Chain:**
+- 📡 &nbsp;Reads **GPS coordinates** (lat/lng) from NEO-6M module
+- 📲 &nbsp;Dispatches **SMS alert via GSM SIM800L** to emergency contacts
+- 🚨 &nbsp;Triggers onboard **buzzer + LED** for local warning
+- ⚡ &nbsp;**Sub-second end-to-end latency**
+
+<div align="center">
 
 | 🔩 Component | 📌 Role |
-|---|---|
-| Arduino R4 | Main Microcontroller |
-| MPU6050 | 6-axis IMU — Crash Detection |
-| NEO-6M GPS | Real-Time Location |
-| SIM800L GSM | SMS Emergency Alert |
-| Buzzer + LED | Local Physical Warning |
+|:---|:---|
+| **Arduino R4** | Main MCU — System Orchestration |
+| **MPU6050** | 6-axis IMU — Crash Impact Detection |
+| **NEO-6M GPS** | Real-Time Location Coordinates |
+| **SIM800L GSM** | SMS Emergency Alert Dispatch |
+| **Buzzer + LED** | Local Physical Warning Indicator |
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/badrisatyam1-ctrl/smart-helmet)
+</div>
+
+[![View Repo](https://img.shields.io/badge/⭐%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/badrisatyam1-ctrl/smart-helmet)
+&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00D4FF?style=flat-square&logoColor=white)
-
----
-
-### 🧠 `[03]` — ECG Arrhythmia Anomaly Detector
-
-<img align="right" src="https://img.shields.io/badge/Status-Complete-7b2ff7?style=flat-square"/>
-
-**LSTM · TensorFlow · Time-Series · Cardiac AI**
-
-Deep learning model for cardiac arrhythmia classification from ECG time-series. Built with **BiLSTM** to learn temporal dependencies across heartbeat windows. Full preprocessing pipeline: noise filtering → QRS segmentation → normalization. Achieves strong F1 on MIT-BIH Arrhythmia Dataset.
-
-| 🔩 Component | 📌 Detail |
-|---|---|
-| 🧠 Model | Bidirectional LSTM |
-| 📊 Dataset | MIT-BIH Arrhythmia |
-| 🎯 Task | Multi-class Classification |
-| 📈 Metrics | Accuracy · F1 · Confusion Matrix |
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/badrisatyam1-ctrl)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![GPS](https://img.shields.io/badge/GPS%20%2F%20GSM-7B2FF7?style=flat-square&logoColor=white)
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+</div>
 
 <br/>
 
-<!-- ══════════════════════ GITHUB STATS ══════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                       GITHUB STATS                               -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 📊 GitHub Stats
 
@@ -242,65 +283,81 @@ Deep learning model for cardiac arrhythmia classification from ECG time-series. 
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=badrisatyam1-ctrl&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b2ff7&fire=ff6e6e&currStreakLabel=00d4ff&sideLabels=c9d1d9&border_radius=12" alt="GitHub Streak" height="175"/>
+<img src="https://streak-stats.demolab.com?user=badrisatyam1-ctrl&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b2ff7&fire=ff6e6e&currStreakLabel=00d4ff&sideLabels=c9d1d9&border_radius=12" alt="GitHub Streak" height="180"/>
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════ SNAKE GAME — GITHUB CONTRIBUTIONS ══════════════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--              LEETCODE STATS + SNAKE ANIMATION                    -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🧩 LeetCode Stats
 
 <div align="center">
 
-### 🐍 Watch My Contributions Get Eaten!
+<img src="https://leetcard.jacoblin.cool/Badri1888?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=12&site=com" alt="LeetCode Stats Card" width="495"/>
+
+<br/><br/>
+
+![LeetCode](https://img.shields.io/badge/Handle-Badri1888-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Topics](https://img.shields.io/badge/Focus-Arrays%20·%20DP%20·%20Strings%20·%20Greedy-7B2FF7?style=for-the-badge)
+
+<br/><br/>
+
+<!-- 🐍 SNAKE GAME EATING LEETCODE STREAK — placed right below LeetCode -->
+### 🐍 Contributions Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/badrisatyam1-ctrl/badrisatyam1-ctrl/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/badrisatyam1-ctrl/badrisatyam1-ctrl/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/badrisatyam1-ctrl/badrisatyam1-ctrl/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/badrisatyam1-ctrl/badrisatyam1-ctrl/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/badrisatyam1-ctrl/badrisatyam1-ctrl/output/github-contribution-grid-snake.svg"/>
+  <img
+    alt="🐍 Snake eating my GitHub contributions"
+    src="https://raw.githubusercontent.com/badrisatyam1-ctrl/badrisatyam1-ctrl/output/github-contribution-grid-snake-dark.svg"
+    width="100%"/>
 </picture>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ══════════════════════ LEETCODE STATS ══════════════════════ -->
-
-## 🧩 LeetCode Stats
-
 <div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Badri1888?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" width="500"/>
-
-<br/><br/>
-
-![LeetCode](https://img.shields.io/badge/LeetCode-Badri1888-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Language](https://img.shields.io/badge/Primary%20Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Arrays%20%7C%20DP%20%7C%20Strings%20%7C%20Greedy-7B2FF7?style=for-the-badge)
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 </div>
 
 <br/>
 
-<!-- ══════════════════════ ACTIVITY GRAPH ══════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                    ACTIVITY GRAPH                                -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=badrisatyam1-ctrl&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=ffffff&hide_border=true&radius=8&area=true&area_color=7b2ff7" width="96%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=badrisatyam1-ctrl&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&hide_border=true&radius=8&area=true&area_color=7b2ff7" width="96%" alt="Activity Graph"/>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+</div>
 
 <br/>
 
-<!-- ══════════════════════ CURRENTLY LEARNING ══════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                   CURRENTLY LEARNING                             -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🌱 Currently Learning
 
@@ -310,37 +367,42 @@ Deep learning model for cardiac arrhythmia classification from ECG time-series. 
 ![RL](https://img.shields.io/badge/Reinforcement%20Learning-00D4FF?style=for-the-badge&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA%20Programming-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Edge AI](https://img.shields.io/badge/Edge%20AI%20Deployment-FF6F00?style=for-the-badge&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA%20in%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![DSA](https://img.shields.io/badge/Advanced%20DSA%20in%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════ ACHIEVEMENTS ══════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                 ACHIEVEMENTS & HIGHLIGHTS                        -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🏆 Achievements & Highlights
 
 <div align="center">
 
-| 🏅 | Highlight |
-|:---:|---|
-| 🔬 | Built **production AI pipeline** — Wafer Defect Detection with Grad-CAM + GPT chatbot |
-| 🪖 | Engineered **Smart Helmet** — real-time crash detection with GPS + GSM emergency response |
-| 🧠 | Implemented **ECG Arrhythmia Classifier** using BiLSTM on MIT-BIH dataset |
-| ⚡ | Consistent **LeetCode solver** in C++ — Arrays, Two Pointers, DP, Greedy, Strings |
-| 📡 | Hands-on **IoT sensor fusion** — MPU6050 + GPS + GSM hardware integration |
-| 🎓 | ECE undergrad specializing at the **hardware ↔ deep learning boundary** |
-| 🤝 | Actively building **AI + Embedded open-source** tools |
+| &nbsp; | Highlight |
+|:---:|:---|
+| 🔬 | Built **production AI pipeline** — Wafer Defect Detection with Grad-CAM explainability + GPT-4o chatbot |
+| 🪖 | Engineered **Smart Helmet** — real-time crash detection + GPS location + GSM emergency SMS |
+| ⚡ | Consistent **LeetCode problem solver** in C++ across Arrays, DP, Two Pointers, Greedy & Strings |
+| 📡 | Hands-on **IoT sensor fusion** — MPU6050 + GPS + GSM full hardware stack integration |
+| 🎓 | ECE undergrad specializing at the **hardware ↔ deep learning frontier** |
+| 🤝 | Actively building and sharing **AI + Embedded open-source tools** |
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+</div>
 
 <br/>
 
-<!-- ══════════════════════ CONNECT ══════════════════════ -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                       LET'S CONNECT                              -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🌐 Let's Connect
 
@@ -361,18 +423,16 @@ Deep learning model for cardiac arrhythmia classification from ECG time-series. 
 <a href="mailto:badrivishalpandey@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://bvpandit-official-2025-web.my.canva.site/morgan-maxwell-photographer">
-  <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
 
 </div>
 
-<!-- ══════════════════════ FOOTER ══════════════════════ -->
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%"/>
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--                       FOOTER                                     -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%"/>
 
 <div align="center">
   <sub>⚡ Engineered with precision by <b>Badri Vishal Pandey</b> &nbsp;·&nbsp; AI/ML &nbsp;·&nbsp; ECE &nbsp;·&nbsp; Robotics &nbsp;·&nbsp; IoT</sub>
