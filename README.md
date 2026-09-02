@@ -1,12 +1,10 @@
-<div align="center">
+# Badri Vishal Pandey
 
-### 👋 Hey, I'm Badri
+AI/ML Engineer &nbsp;·&nbsp; Embedded Systems Developer &nbsp;·&nbsp; Greater Noida, India
 
 Fullstack of a different kind — AI/ML on one side, embedded hardware on the other.
-B.Tech ECE student at Galgotias College of Engineering and Technology, Greater Noida, India.
+B.Tech ECE at Galgotias College of Engineering and Technology, Class of 2027.
 Building computer vision for industrial inspection and IoT systems that react in real time.
-
-</div>
 
 <br/>
 
@@ -43,8 +41,9 @@ Building computer vision for industrial inspection and IoT systems that react in
 ### 📊 GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=badrisatyam1-ctrl&show_icons=true&theme=dark&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrisatyam1-ctrl&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=batchfile" height="150"/>
+<img src="https://img.shields.io/github/followers/badrisatyam1-ctrl?style=for-the-badge&color=14151A&labelColor=14151A"/>
+<img src="https://img.shields.io/github/stars/badrisatyam1-ctrl?style=for-the-badge&color=14151A&labelColor=14151A"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/badrisatyam1-ctrl&label=public%20repos&query=public_repos&style=for-the-badge&color=14151A&labelColor=14151A"/>
 </div>
 
 <br/>
@@ -54,7 +53,7 @@ Building computer vision for industrial inspection and IoT systems that react in
 Handle **Badri1888** — C++, consistent solving in arrays, DP, greedy, strings, backtracking.
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/Badri1888?theme=dark&font=Fira+Code&ext=heatmap&border=0" width="480"/>
+<img src="https://leetcard.jacoblin.cool/Badri1888?theme=light&font=Fira+Code&ext=heatmap&border=0" width="480"/>
 </div>
 
 <br/>
