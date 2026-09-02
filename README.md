@@ -49,6 +49,16 @@ Building computer vision for industrial inspection and IoT systems that react in
 
 <br/>
 
+### 🧩 LeetCode
+
+Handle **Badri1888** — C++, consistent solving in arrays, DP, greedy, strings, backtracking.
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/Badri1888?theme=dark&font=Fira+Code&ext=heatmap&border=0" width="480"/>
+</div>
+
+<br/>
+
 <div align="center">
 
 📫 [LinkedIn](https://linkedin.com/in/badri-vishal-pandey-0a7913324) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/Badri1888) &nbsp;·&nbsp; [Email](mailto:badrisatyam1@gmail.com)
