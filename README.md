@@ -3,7 +3,7 @@
 AI/ML Engineer &nbsp;·&nbsp; Embedded Systems Developer &nbsp;·&nbsp; Greater Noida, India
 
 Fullstack of a different kind — AI/ML on one side, embedded hardware on the other.
-B.Tech ECE at Galgotias College of Engineering and Technology, Class of 2027.
+B.Tech ECE at Galgotias College of Engineering and Technology, Class of 2028.
 Building computer vision for industrial inspection and IoT systems that react in real time.
 
 <br/>
