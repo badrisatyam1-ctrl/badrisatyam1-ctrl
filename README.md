@@ -48,6 +48,12 @@ Building computer vision for industrial inspection and IoT systems that react in
 
 <br/>
 
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=badrisatyam1-ctrl&theme=default&background=14151A&border=14151A&stroke=14151A&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="Total contributions, current streak, and longest streak"/>
+</div>
+
+<br/>
+
 ### 🧩 LeetCode
 
 Handle **Badri1888** — C++, consistent solving in arrays, DP, greedy, strings, backtracking.
