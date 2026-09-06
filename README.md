@@ -8,7 +8,7 @@ Building computer vision for industrial inspection and IoT systems that react in
 
 <br/>
 
-### 🛠️ Things I build with
+###  Things I build with
 
 <p>
 <img src="https://img.shields.io/badge/Python-14151A?style=flat-square&logo=python&logoColor=3776AB"/>
@@ -38,7 +38,7 @@ Building computer vision for industrial inspection and IoT systems that react in
 
 <br/>
 
-### 📊 GitHub
+###  GitHub
 
 <div align="center">
 <img src="https://img.shields.io/github/followers/badrisatyam1-ctrl?style=for-the-badge&color=14151A&labelColor=14151A"/>
@@ -54,7 +54,7 @@ Building computer vision for industrial inspection and IoT systems that react in
 
 <br/>
 
-### 🧩 LeetCode
+###  LeetCode
 
 Handle **Badri1888** — C++, consistent solving in arrays, DP, greedy, strings, backtracking.
 
@@ -66,6 +66,6 @@ Handle **Badri1888** — C++, consistent solving in arrays, DP, greedy, strings,
 
 <div align="center">
 
-📫 [LinkedIn](https://linkedin.com/in/badri-vishal-pandey-0a7913324) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/Badri1888) &nbsp;·&nbsp; [Email](mailto:badrisatyam1@gmail.com)
+ [LinkedIn](https://linkedin.com/in/badri-vishal-pandey-0a7913324) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/Badri1888) &nbsp;·&nbsp; [Email](mailto:badrisatyam1@gmail.com)
 
 </div>
